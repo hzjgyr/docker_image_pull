@@ -1,2 +1,2 @@
-nginx
-python:alpin3.19
+redis:7
+postgres:16
