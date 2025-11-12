@@ -1,2 +1,2 @@
 nginx
-python3.11
+python:alpin3.19
