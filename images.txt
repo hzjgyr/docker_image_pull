@@ -1,1 +1,1 @@
-jrottenberg/udpxy
+docker.io/python:3.11
