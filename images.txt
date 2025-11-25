@@ -1,1 +1,1 @@
-docker.io/bitnami/postgresql:17
+docker.io/bitnami/postgresql:17.5.0
