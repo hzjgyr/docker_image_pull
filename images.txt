@@ -1,1 +1,1 @@
-bitnami/postgresql:latest
+ghcr.io/immich-app/immich-server:latest
