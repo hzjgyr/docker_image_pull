@@ -1,1 +1,1 @@
-wenetorg/wenet:mini
+wenetorg/wenet-mini:latest
