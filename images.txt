@@ -1,2 +1,2 @@
-keking/kkfileview:v5.0.1
+docker.io/library/ubuntu:24.04
 
