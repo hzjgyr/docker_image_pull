@@ -1,2 +1,2 @@
-keking/kkfileview:latest
+keking/kkfileview:v5.0.1
 
