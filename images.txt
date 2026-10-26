@@ -1,1 +1,1 @@
-binwiederhier/ntfy
+docker.io/ymlisoft/kkfileview-base:5.0.2-4
