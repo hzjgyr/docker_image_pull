@@ -1,1 +1,1 @@
-docker.io/ymlisoft/kkfileview-base:5.0.2-4
+ghcr.io/frepple/frepple:9.19.0
