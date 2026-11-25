@@ -1,1 +1,1 @@
-ghcr.io/frepple/frepple:9.19.0
+postgres:17
